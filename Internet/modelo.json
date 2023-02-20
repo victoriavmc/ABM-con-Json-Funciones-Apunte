@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Servidor": "Servidor1",
+        "IP": "1.1.1.1",
+        "Estado": "Activo"
+    },
+    {
+        "Id": 2,
+        "Servidor": "Servidor2",
+        "IP": "2.2.2.2",
+        "Estado": "Inactivo"
+    },
+    {
+        "Id": 3,
+        "Servidor": "Servidor3",
+        "IP": "3.3.3.3",
+        "Estado": "Activo"
+    },
+    {
+        "Id": 4,
+        "Servidor": "Servidor4",
+        "IP": "4.4.4.4",
+        "Estado": "Activo"
+    }
+]
